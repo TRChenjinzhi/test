@@ -13,7 +13,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 //    [ZFPlayerLogManager setLogEnable:YES];
-    NSLog(@"测试--------1");
+    NSLog(@"测试--------2");
     return YES;
 }
 
