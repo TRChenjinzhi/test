@@ -14,7 +14,12 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 //    [ZFPlayerLogManager setLogEnable:YES];
     NSLog(@"测试--------3");
+<<<<<<< HEAD
     NSLog(@"分支测试--------3");
+=======
+    NSLog(@"分支测试--------1");
+    NSLog(@"分支测试--------2");
+>>>>>>> 分支2
     return YES;
 }
 
